@@ -17,5 +17,6 @@ class Link extends Model
     protected $fillable = [
         'original',
         'short',
+        'hit',
     ];
 }
