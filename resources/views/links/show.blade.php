@@ -14,7 +14,7 @@
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body class="font-sans antialiased">
+    <body class="font-sans antialiased bg-zinc-200">
         <div class="h-screen">
             <div class="min-h-full">
                 <div class="text-center flex flex-col max-w-2xl p-4 sm:p-6 lg:p-8 mx-auto">
